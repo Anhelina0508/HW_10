@@ -1,0 +1,6 @@
+    1  cd HW_10/
+    2  cd HW_10
+    3  pwd
+    4  cd homework
+    5  cd HW_10
+    6  history > command_list.csv
